@@ -74,7 +74,7 @@ Trong khi coroutine cung cấp giải pháp mạnh để kích hoạt chúng đ�
 Tác giả : Kunal Chaubal : Dịch : Trần Hiếu
 16/5/2020- 21/5/2020
 Bạn có thể tìm kiến kho lưu tữ đầy đủ trên github
-[](https://github.com/KunalChaubal/CoroutinesSample)
+[tại đây](https://github.com/KunalChaubal/CoroutinesSample)
 
-document : [](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-supervisor-job.html)
+[document](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-supervisor-job.html)
 
